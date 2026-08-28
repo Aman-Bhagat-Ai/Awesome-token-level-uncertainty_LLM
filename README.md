@@ -139,11 +139,6 @@ The implementations section considers documentation, source availability, mainte
 
 Included: SelfCheckGPT, Semantic Uncertainty, LM-Polygraph, ALCE, TruthX, and RAGTruth.
 
-## Tutorials and Learning Resources
-
-**[Open the complete learning-resource list](tutorials/tutorials.md)**
-
-Included: Stanford CS336, Stanford CS336 lecture repository, LM-Polygraph, Ragas documentation, ALCE reproduction resources, and SelfCheckGPT project resources.
 
 ## Verification and Ethical Use
 
