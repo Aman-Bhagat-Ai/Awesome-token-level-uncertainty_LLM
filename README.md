@@ -32,19 +32,13 @@ The collection below organizes the literature around these themes and connects t
 
 The supplied paper reviews token-level uncertainty, semantic entropy, Claim Conditioned Probability (CCP), Semantic Entropy Probes (SEPs), Calibrated Entropy Scores (CES), and pre-trained uncertainty-quantification heads. It also discusses calibration, computational cost, layer-specific effects, multi-step reasoning, and future directions.
 
-**[View the AI-Assisted Research Paper](paper/AI_Assisted_Research_Paper.pdf)**
+**[View the AI-Assisted Research Paper](Paper/AI_Assisted_Research_Paper.pdf)**
 
 ## Citation Integrity Audit
 
 A citation/resource audit was prepared to verify the references appearing in the supplied paper and to document the verification rules used for the curated collection.
 
-**[View the Citation Integrity Audit PDF](citation-audit/Citation_Integrity_Audit.pdf)** · **[View the audit notes](citation-audit/audit.md)**
-
-The claim-level review is available in **[claim_citation_audit.md](citation-audit/claim_citation_audit.md)**. It explicitly flags claims in the supplied paper that depend on the incomplete Villani reference.
-
-## Claim-Citation Audit
-
-The repository distinguishes reference verification from claim verification. Major claims in the supplied paper were reviewed against their cited sources; claims depending on the incomplete Villani reference are explicitly marked as requiring correction/verification.
+**[View the Citation Integrity Audit PDF](citation-audit/Citation_Integrity_Audit.pdf)** · **[View the audit notes](citation-audit/Citation_Integrity_Audit.pdf)**
 
 ## Survey and Review Papers
 
