@@ -38,7 +38,7 @@ The supplied paper reviews token-level uncertainty, semantic entropy, Claim Cond
 
 A citation/resource audit was prepared to verify the references appearing in the supplied paper and to document the verification rules used for the curated collection.
 
-**[View the Citation Integrity Audit PDF](citation-audit/Citation_Integrity_Audit.pdf)** · **[View the audit notes](citation-audit/Citation_Integrity_Audit.pdf)**
+**[View the Citation Integrity Audit PDF](citation-audit/Citation_Integrity_Audit.pdf)** ·
 
 ## Survey and Review Papers
 
