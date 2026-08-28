@@ -103,7 +103,31 @@ Included: HaluEval, RAGTruth, TruthfulQA, ALCE, and FELM.
 
 The repository includes six relevant tools/resources.
 
-**[Open the complete tools list](tools/tools.md)**
+# Tutorials and Learning Resources
+
+## 1. Stanford CS336: Language Modeling from Scratch
+**Purpose:** Comprehensive lectures and assignments covering tokenization, Transformer architecture, training, systems, scaling, data, and evaluation.  
+**Link:** https://cs336.stanford.edu/
+
+## 2. Stanford CS336 Lecture Repository
+**Purpose:** Executable and non-executable lecture materials for learning how modern language models are built and evaluated.  
+**Link:** https://github.com/stanford-cs336/lectures
+
+## 3. LM-Polygraph Project and Documentation
+**Purpose:** Practical starting point for uncertainty estimation methods and evaluation workflows for LLM generation.  
+**Link:** https://github.com/IINemo/lm-polygraph
+
+## 4. Ragas Documentation
+**Purpose:** Hands-on documentation for evaluating RAG systems, including faithfulness-oriented evaluation.  
+**Link:** https://docs.ragas.io/
+
+## 5. ALCE Benchmark and Reproduction Repository
+**Purpose:** Reproducible benchmark/data/code for evaluating LLM answers with citations.  
+**Link:** https://github.com/princeton-nlp/ALCE
+
+## 6. SelfCheckGPT Project Repository
+**Purpose:** Practical examples and code for black-box hallucination detection through self-consistency.  
+**Link:** https://github.com/potsawee/selfcheckgpt
 
 Included: LM-Polygraph, Semantic Uncertainty, UQ-NLG, Ragas, SelfCheckGPT, and UNCERTAINTY-LINE.
 
